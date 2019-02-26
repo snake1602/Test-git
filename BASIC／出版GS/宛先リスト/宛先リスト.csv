@@ -1,0 +1,7 @@
+メールアドレス,FAX,会社名,部署,役職,姓,名,郵便番号,URL,備考
+sample1@example.com,045-443-2007,会社A,部署A,社長,姓Ａ,名Ａ,1050001,http://www.nexway.co.jp/,送達
+sample2@example.com,045-443-2011,会社B,部署B,部長,姓B,名B,1050001,http://www.google.com/,送達
+sample3@example.com,045-443-2038,会社C,部署C,課長,姓C,名C,1050001,http://www.nexway.co.jp/,不達
+sample4@example.com,045-443-2031,会社D,部署D,,姓D,名D,1050001,http://www.google.com/,不達orエラー
+sample5@example.com,045-443-2048,会社E,部署E,,姓E,名E,1050001,http://www.nexway.co.jp/,不達orエラー
+sample6@example.com,045-443-2009,会社F,部署F,,姓F,名F,1050001,http://www.nexway.co.jp/,エラー
